@@ -1,0 +1,14 @@
+select
+    evt_block_time as block_time
+    , text
+    , get_href('https://www.words.art/' || cast(item as varchar), text) AS text_url
+    , item
+    , creator
+    , get_href(get_chain_explorer_address('base', creator), cast(creator as varchar))  AS creator_url
+    , collection
+    , evt_tx_hash as tx_hash
+    , get_href(get_chain_explorer_tx_hash('base', evt_tx_hash), cast(evt_tx_hash as varchar))  AS tx_hash_url
+from wordsart_base.XSquared_evt_ItemCreated
+where true
+    and collection = 0xc0e6ccd5f74de3efa079599b04c62d712768dc824c10078479ae4d7bb68fadc5
+order by evt_block_time desc
