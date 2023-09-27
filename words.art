@@ -1,3 +1,4 @@
+{
 select
     evt_block_time as block_time
     , text
@@ -12,3 +13,4 @@ from wordsart_base.XSquared_evt_ItemCreated
 where true
     and collection = 0xc0e6ccd5f74de3efa079599b04c62d712768dc824c10078479ae4d7bb68fadc5
 order by evt_block_time desc
+}
