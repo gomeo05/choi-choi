@@ -1,15 +1,16 @@
-aleo1n4d0fu7k8xvn83645fn6vklfk0zluv
-Former US Vice President Mike Pence has withdrawn from the 2024 presidential race, saying "this is not my time".
+Jude Bellingham became the first player to score in each of his first four Champions League appearances for Real Madrid as they saw off spirited Napoli.
 
-He made the announcement at the Republican Jewish Coalition in Las Vegas on Saturday afternoon.
+The England midfielder headed in David Alaba's cross in the 22nd minute to put the 14-time winners 2-1 ahead.
 
-"We always knew this would be an uphill battle, but I have no regrets," he wrote in a statement.
+It was the 20-year-old's 15th goal in his 16th appearance for Los Blancos.
 
-Mr Pence is the first major Republican candidate to suspend his campaign in a race led by former President Donald Trump.
+He also assisted the fourth goal for Joselu in added time as Real continued their perfect record in this season's Champions League with a 4-2 win.
 
-Mr Pence had languished in recent polls and had struggled to gain the support of Republican voters.
+"He's spectacular in getting into the box, he comes into the box like a motorbike," Real manager Carlo Ancelotti told Movistar Plus.
 
-The former vice president's campaign had also racked up large amounts of debt, with Mr Pence ending September owing $621,000 (£512,038) and having only US$1.2m (£989,446) in the bank - significantly less than other Republican rivals.
+"It's surprising because nobody could have imagined such fast adaptation here, to this club and the football he is showing. He surprises the fans, team mates and even rivals."
+
+Giovanni Simeone opened the scoring for the visitors in the ninth minute but Rodrygo's brilliant curling effort brought Real level two minutes later.
 
 "I am leaving this campaign, but I will never leave the fight for conservative values," he wrote in a statement addressed to his supporters.
 
